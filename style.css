@@ -1,0 +1,171 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.banner-img{
+    width: 400px;
+}
+.banner-container{
+    display: flex;
+    justify-content: space-around;
+    height: 500px;
+    border: 2px solid cornsilk;
+    align-items: center;
+    background-color: antiquewhite;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.title{
+    font-size: 40px;
+    font-weight: bold;
+}
+.description{
+    font-size: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.btn{
+    padding:8px 20px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+.btn:hover{
+    color: white;
+}
+.text-container{
+    text-align: center;
+}
+.box{
+display: flex;
+justify-content: center;
+
+
+}
+.flower1{
+    width: 400px;
+height: 300px;
+border-radius: 300px 300px 0px 0px;
+background: rgb(167, 33, 98, 0.15);
+margin-bottom: 30px;
+
+
+
+   
+}
+
+.flower2{
+    width: 400px;
+height: 300px;
+border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+margin-left: 8px;
+margin-bottom: 30px;
+}
+
+.flower3{
+    width: 400px;
+height: 300px;
+border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+margin-left: 8px;
+margin-bottom: 30px;
+}
+
+
+.banner-contecsbox{
+    display: flex;
+    justify-content: space-around;
+    height: 200px;
+    align-items: center;
+    background-color: rgb(216, 209, 195);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+
+.sale-img{
+    width: 250px;
+}
+.sale-container{
+    display: flex;
+    justify-content: space-around;
+    height: 383px;
+    border: 2px solid cornsilk;
+    align-items: center;
+    background-color: antiquewhite;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.photo-container{
+display: flex;
+align-items: center;
+justify-content:space-around;
+padding: 50px;
+
+
+}
+.box-img{
+    width: 320px;
+}
+.text-contai{
+    text-align: center;
+}
+.broder-img{
+    
+    background-image: url(../flower-shop/img/Rectangle9.png);
+    
+}
+.head1{
+    color: #272727;
+    padding-left: 530px;
+
+    font-size: 40px;
+
+    font-weight: 800;
+
+    padding-top: 122px;
+}
+.headtext{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+
+}
+#input1{
+width: 800px;
+height: 60px;
+margin-left: 285px;
+margin-bottom: 115px;
+
+}
+.bg-colur{
+background-color: black;
+color: white;
+height: 400px;
+}
+.bg-text{
+text-align: center;
+padding: 20px;
+
+}
+.fast{
+    color: palevioletred;
+    padding-left: 5px;
+    padding: 15px;
+}
+.move{
+    padding: 15px;
+}
+.hold{
+padding: 15px;
+}
